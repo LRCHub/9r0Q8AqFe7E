@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Troubadour",
+  "base_artist": "酔シグレ",
+  "createdAt": "2026-02-07T07:45:33.473386Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Troubadour (album version)",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/01_Troubadour_(album_version)_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Once Upona Troubadour",
+      "artist": "Nightwish",
+      "has_synced": true,
+      "path": "select/02_Once_Upona_Troubadour_Nightwish.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kate (Live At The Troubadour, Los Angeles)",
+      "artist": "Linda Ronstadt",
+      "has_synced": false,
+      "path": "select/03_Kate_(Live_At_The_Troubadour,_Los_Angeles)_Linda_Ronstadt.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Machine Gun Kelly - Live At The Troubadour / 2007",
+      "artist": "Carole King feat. James Taylor",
+      "has_synced": false,
+      "path": "select/04_Machine_Gun_Kelly_-_Live_At_The_Troubadour___2007_Carole_King_feat._James_Taylor.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Troubadour",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/05_The_Troubadour_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Troubadour",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/06_Troubadour_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hey, Good Lookin' (Live at the Troubadour)",
+      "artist": "Van Morrison",
+      "has_synced": true,
+      "path": "select/07_Hey,_Good_Lookin'_(Live_at_the_Troubadour)_Van_Morrison.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "De Troubadour",
+      "artist": "Lenny Kuhr",
+      "has_synced": true,
+      "path": "select/08_De_Troubadour_Lenny_Kuhr.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Troubadour",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/09_Troubadour_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Am I Evil? - Live At The Troubadour, West Hollywood, CA / May 24th, 1988",
+      "artist": "Metallica",
+      "has_synced": false,
+      "path": "select/10_Am_I_Evil__-_Live_At_The_Troubadour,_West_Hollywood,_CA___May_24th,_1988_Metallica.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blitzkrieg - Live At The Troubadour, West Hollywood, CA / May 24th, 1988",
+      "artist": "Metallica",
+      "has_synced": false,
+      "path": "select/11_Blitzkrieg_-_Live_At_The_Troubadour,_West_Hollywood,_CA___May_24th,_1988_Metallica.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Creeping Death - Live At The Troubadour, West Hollywood, CA / May 24th, 1988",
+      "artist": "Metallica",
+      "has_synced": false,
+      "path": "select/12_Creeping_Death_-_Live_At_The_Troubadour,_West_Hollywood,_CA___May_24th,_1988_Metallica.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fade To Black - Live At The Troubadour, West Hollywood, CA / May 24th, 1988",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/13_Fade_To_Black_-_Live_At_The_Troubadour,_West_Hollywood,_CA___May_24th,_1988_Metallica.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "For Whom the Bell Tolls - Live At The Troubadour, West Hollywood, CA / May 24th, 1988",
+      "artist": "Metallica",
+      "has_synced": false,
+      "path": "select/14_For_Whom_the_Bell_Tolls_-_Live_At_The_Troubadour,_West_Hollywood,_CA___May_24th,_Metallica.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Harvester of Sorrow - Live At The Troubadour, West Hollywood, CA / May 24th, 1988",
+      "artist": "Metallica",
+      "has_synced": false,
+      "path": "select/15_Harvester_of_Sorrow_-_Live_At_The_Troubadour,_West_Hollywood,_CA___May_24th,_198_Metallica.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Last Caress - Live At The Troubadour, West Hollywood, CA / May 24th, 1988",
+      "artist": "Metallica",
+      "has_synced": false,
+      "path": "select/16_Last_Caress_-_Live_At_The_Troubadour,_West_Hollywood,_CA___May_24th,_1988_Metallica.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Leper Messiah - Live At The Troubadour, West Hollywood, CA / May 24th, 1988",
+      "artist": "Metallica",
+      "has_synced": false,
+      "path": "select/17_Leper_Messiah_-_Live_At_The_Troubadour,_West_Hollywood,_CA___May_24th,_1988_Metallica.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Troubadour (feat. 樹里)",
+      "artist": "酔シグレ",
+      "has_synced": false,
+      "path": "select/pl_01_Troubadour_(feat._樹里)_酔シグレ.txt"
+    }
+  ]
+}
